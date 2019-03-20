@@ -38,13 +38,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BSc Mathematics
 - 2:2
-- Other cool stuff
+- First year: Calculus, Core Algebra, Probability and Statistics, Applied Mathematics, Real Analysis.
+- Second year: Differential Equations, Statistics I, Statistics II, Applied Probability, Group Theory, Linear Algebra, Groups, Rings and Fields, Complex Analysis and Integral Transformations.
+- Third year: Mathematical Finance I, Mathematical Finance II, Partial Differential Equations, Stochastic Processes, Statistical Pattern Recognition, Cryptography, Time Series, Survival Analysis, Final Year Project and presentation (Graph Theory).
 
 #### Any other qualifications
 
 ## Experience
 
 **iwoca** (Sept 2017 to March 2019)    
-*Your job title*  
+*Payments Advisor/Team Leader*
+- Take ownership of a portfolio of customers in respect to their agreed repayments and enhance customer relationships through a straightforward and transparent approach.
+- Answer queries regarding upcoming payments, communicate with customers who have missed a repayment, agree and schedule payments to bring your customer back on track.
+- Listen to your customer’s reasons for non-payment, be inquisitive and empathetic in order to fully understand the problem and then come up with a solution that suits both the customer and the company.
+- Identify where a missed payment may require input from other teams within the business such as Account Managers or escalation to the Collection team to achieve the best outcome.
+- Liaise with the finance team when working on reconciliation and bank payments.
+- Communicate with third party legal and insolvency teams to provide the best support
+and outcome for the customer.
+- Ensure compliance with all company policies and procedures as well as appropriate
+legislation regulatory body guidelines.
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
