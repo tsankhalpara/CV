@@ -47,7 +47,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **iwoca** (Sept 2017 to March 2019)    
-*Payments Advisor/Team Leader*
+*Payments Team Leader*
+The Payments Team Leader is responsible for ensuring that the Payments team provides an efficient and effective service and meets agreed performance targets, and that there is compliance with the companies financial regulations and policies.
+
+- Ensure that performance targets and standards are monitored and achieved.
+- Supervise the day-to-day operation of the Payments team and provide guidance on operational matters.
+- Assess the training needs of staff and ensure that staff have the appropriate skills and competencies for their roles. Provide on the job training and support to staff.
+- Generate daily payment runs and reconcile BACS payments.
+
+*Payments Advisor*
 - Take ownership of a portfolio of customers in respect to their agreed repayments and enhance customer relationships through a straightforward and transparent approach.
 - Answer queries regarding upcoming payments, communicate with customers who have missed a repayment, agree and schedule payments to bring your customer back on track.
 - Listen to your customer’s reasons for non-payment, be inquisitive and empathetic in order to fully understand the problem and then come up with a solution that suits both the customer and the company.
