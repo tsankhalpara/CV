@@ -33,7 +33,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -73,7 +72,8 @@ and outcome for the customer.
 - Ensure compliance with all company policies and procedures as well as appropriate
 legislation regulatory body guidelines.
 
-**Next, Models Own and ALDO** (July 2014- September 2016)   
+**Next, Models Own and ALDO** (July 2014- September 2016)
+   
 *Sales Assistant*
 - Ensured that standards were met and maintained throughout the store.
 - Worked in a fast-paced and fun environment as a team.
