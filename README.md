@@ -1,10 +1,10 @@
 ## Tara Sankhalpara
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A recent graduate who is willing to learn and can adapt well to new surroundings. Has excellent IT, analytical and problem solving skills. Smart and humble, with a growth mindset, taking on managerial roles within one year of experience. Overall is an extremely hardworking and reliable person, who can work well in a team and independently.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Teamwork
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,6 +20,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Problem solving
+
+#### Time management
+
 
 ## Education
 
@@ -43,10 +48,6 @@ Year | Modules
 First year| Calculus, Core Algebra, Probability and Statistics, Applied Mathematics, Real Analysis.
 Second year | Differential Equations, Statistics I, Statistics II, Applied Probability, Group Theory, Linear Algebra, Groups, Rings and Fields, Complex Analysis and Integral Transformations.
 Third year | Mathematical Finance I, Mathematical Finance II, Partial Differential Equations, Stochastic Processes, Statistical Pattern Recognition, Cryptography, Time Series, Survival Analysis, Final Year Project and presentation (Graph Theory).
-
-- First year: Calculus, Core Algebra, Probability and Statistics, Applied Mathematics, Real Analysis.
-- Second year: Differential Equations, Statistics I, Statistics II, Applied Probability, Group Theory, Linear Algebra, Groups, Rings and Fields, Complex Analysis and Integral Transformations.
-- Third year: Mathematical Finance I, Mathematical Finance II, Partial Differential Equations, Stochastic Processes, Statistical Pattern Recognition, Cryptography, Time Series, Survival Analysis, Final Year Project and presentation (Graph Theory).
 
 #### Any other qualifications
 
@@ -72,5 +73,11 @@ and outcome for the customer.
 - Ensure compliance with all company policies and procedures as well as appropriate
 legislation regulatory body guidelines.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Next, Models Own and ALDO** (July 2014- September 2016)   
+*Sales Assistant*
+- Ensured that standards were met and maintained throughout the store.
+- Worked in a fast-paced and fun environment as a team.
+- Maintained a positive attitude towards staff and customers.
+- Gained confidence with traffic stopping and demonstrating products.
+- Dealt with customer enquires in-store and over the phone.
+- Ensured that daily and weekly targets were met.
