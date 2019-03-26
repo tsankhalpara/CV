@@ -36,8 +36,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of York (2014-2017)
 
-- BSc Mathematics
-- 2:2
+- BSc Mathematics (2:2)
 - First year: Calculus, Core Algebra, Probability and Statistics, Applied Mathematics, Real Analysis.
 - Second year: Differential Equations, Statistics I, Statistics II, Applied Probability, Group Theory, Linear Algebra, Groups, Rings and Fields, Complex Analysis and Integral Transformations.
 - Third year: Mathematical Finance I, Mathematical Finance II, Partial Differential Equations, Stochastic Processes, Statistical Pattern Recognition, Cryptography, Time Series, Survival Analysis, Final Year Project and presentation (Graph Theory).
@@ -46,10 +45,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**iwoca** (Sept 2017 to March 2019)    
+**iwoca** (September 2017 to March 2019)    
 *Payments Team Leader*
-The Payments Team Leader is responsible for ensuring that the Payments team provides an efficient and effective service and meets agreed performance targets, and that there is compliance with the companies financial regulations and policies.
-
+- The Payments Team Leader is responsible for ensuring that the Payments team provides an efficient and effective service and meets agreed performance targets, and that there is compliance with the companies financial regulations and policies.
 - Ensure that performance targets and standards are monitored and achieved.
 - Supervise the day-to-day operation of the Payments team and provide guidance on operational matters.
 - Assess the training needs of staff and ensure that staff have the appropriate skills and competencies for their roles. Provide on the job training and support to staff.
