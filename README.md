@@ -46,6 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **iwoca** (September 2017 to March 2019)    
+```
 *Payments Team Leader*
 - The Payments Team Leader is responsible for ensuring that the Payments team provides an efficient and effective service and meets agreed performance targets, and that there is compliance with the companies financial regulations and policies.
 - Ensure that performance targets and standards are monitored and achieved.
@@ -63,6 +64,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 and outcome for the customer.
 - Ensure compliance with all company policies and procedures as well as appropriate
 legislation regulatory body guidelines.
-
+```
 **Company Name** (start_date to end_date)   
 *Your job title*  
