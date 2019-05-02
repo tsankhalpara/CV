@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of York (2014-2017)
 
-- BSc Mathematics (2:2)
+- BSc Mathematics
 
 Year | Modules
 ------------ | -------------
@@ -71,13 +71,3 @@ Third year | Mathematical Finance I, Mathematical Finance II, Partial Differenti
 and outcome for the customer.
 - Ensure compliance with all company policies and procedures as well as appropriate
 legislation regulatory body guidelines.
-
-**Next, Models Own and ALDO** (July 2014- September 2016)
-   
-*Sales Assistant*
-- Ensured that standards were met and maintained throughout the store.
-- Worked in a fast-paced and fun environment as a team.
-- Maintained a positive attitude towards staff and customers.
-- Gained confidence with traffic stopping and demonstrating products.
-- Dealt with customer enquires in-store and over the phone.
-- Ensured that daily and weekly targets were met.
