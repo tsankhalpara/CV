@@ -1,6 +1,6 @@
 ## Tara Sankhalpara
 
-A recent graduate who is willing to learn and can adapt well to new surroundings. Has excellent IT, analytical and problem solving skills. Smart and humble, with a growth mindset, taking on managerial roles within one year of experience. Overall is an extremely hardworking and reliable person, who can work well in a team and independently.
+Graduated from university in 2017 and began a role in Payments, for a Fintech company. This is where I began to learn more about the tech industry and had a passion to develop my knowledge. Following this I decided to leave my job and attend Makers coding bootcamp. Since then I have continued to learn and grow, focusing on a career in tech and each day becoming a better developer than I was yesterday.
 
 ## Skills
 
