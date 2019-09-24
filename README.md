@@ -1,42 +1,52 @@
 ## Tara Sankhalpara
 
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience)
+
 Graduated from university in 2017 and began a role in Payments, for a Fintech company. This is where I began to learn more about the tech industry and had a passion to develop my knowledge. Following this I decided to leave my job and attend Makers coding bootcamp. Since then I have continued to learn and grow, focusing on a career in tech and each day becoming a better developer than I was yesterday.
 
 ## Skills
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Whilst working at iwoca as part of the payments team, it was mainly a customer facing role. I was required to communicate coherently on a daily basis, via email and telephone with customers and also face to face with other team members. Being a team leader meant that communication was key and the role helped me develop this, I had to ensure the tasks and new stragies we put in place were effectively communicated with my team.
 
-- Experience
-- Achievements
-- Evidence
+#### Quick Learner
+
+- Whilst at iwoca, when the wider team was understaffed, I had to take on roles in different teams such as collections and legal. This helped to gain a better understanding of the team, as I was dealing wiith different types of customer queries from all aspects. 
+
+- At Makers I quickly picked up new technical skills, learnt new languages and frameworks in a short space of time. As part of my final project our team decided to learn swift in less than 2 weeks and build a fully functional app.
+
+#### Ability to Multitask
+
+- In my previous role as a team leader I had to ensure several targets of the team were met whilst still continuing to work on my own client portfolio.
+
+- At Makers, whilst working on our final project we had to ensure we understood all areas of the project. This meant pairing to work on tasks whilst also learning about others code through code reviews and daily stand-ups.
 
 #### Teamwork
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- At iwoca it was important that our team ensured that all daily tasks were completed to a high standard and customer conact was made where needed. Therefore teamwork was essential to achieve this, not only by ensuring personal targets were achieved but also helping out other members of the team working on other tasks.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- At Makers, whilst working on final project each individual had to take on several roles and challenges, ensuring we planned well as a team and had multiple tasks on the go to meet out MVP.
 
-#### Problem solving
+## Projects
 
-#### Time management
-
+Here's a link to my <a href="https://github.com/tsankhalpara/Projects">Project repo</a>.
 
 ## Education
 
 #### Makers Academy (March 2019 - June 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. 
+- Fast, independent learner
+- Great collaborator 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Swift, Xcode
+- Travis CI
+- Heroku Deployment
+- Pair programming
 
 #### University of York (2014-2017)
 
@@ -47,8 +57,6 @@ Year | Modules
 First year| Calculus, Core Algebra, Probability and Statistics, Applied Mathematics, Real Analysis.
 Second year | Differential Equations, Statistics I, Statistics II, Applied Probability, Group Theory, Linear Algebra, Groups, Rings and Fields, Complex Analysis and Integral Transformations.
 Third year | Mathematical Finance I, Mathematical Finance II, Partial Differential Equations, Stochastic Processes, Statistical Pattern Recognition, Cryptography, Time Series, Survival Analysis, Final Year Project and presentation (Graph Theory).
-
-#### Any other qualifications
 
 ## Experience
 
